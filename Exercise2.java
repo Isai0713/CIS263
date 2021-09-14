@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-public class DataEntry {
+public class Exercise2 {
 	public static void main(String[] args) {
 		Frame frm=new Frame("DataEntry frame");
 		Label lbl = new Label();
